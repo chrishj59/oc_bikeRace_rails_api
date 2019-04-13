@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: First Name 1
+  email: email1@server.com
+  suggestion: Suggestion 1
+  lastName: Last Name 1
+
+
+two:
+  name: First Name 2
+  email: email2@server.com
+  suggestion: Suggestion 2
+  lastName: Last Name 2
+  

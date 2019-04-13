@@ -1,0 +1,2 @@
+class BikeImage < ApplicationRecord
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ref: 1
+  owner_name: MyString
+  title: MyString
+  description: MyString
+  uploaded: 2019-03-24
+  taken: 2019-03-24
+  photo_url: MyString
+
+two:
+  ref: 1
+  owner_name: MyString
+  title: MyString
+  description: MyString
+  uploaded: 2019-03-24
+  taken: 2019-03-24
+  photo_url: MyString
